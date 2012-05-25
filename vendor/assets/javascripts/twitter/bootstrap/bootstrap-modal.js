@@ -215,4 +215,4 @@
     })
   })
 
-}(window.jQuery);
+}(window.jQuery4Bootstrap === undefined ? window.jQuery : window.jQuery4Bootstrap);
